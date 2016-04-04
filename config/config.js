@@ -1,7 +1,7 @@
 var fauxGhostConfig = {
     "site_url": "http://blog.woodenstake.se",
     "google_fonts_family": "Open+Sans:400,400italic,700,700italic",
-    "google_analytics_tracking_id": "",
+    "google_analytics_tracking_id": "UA-75923444-1",
     "disqus_shortname": "woodenstake",
     "highlight_style": "default",
     "show_author_details": "true",
